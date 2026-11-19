@@ -8,3 +8,5 @@ system and must pass the `sandbox CI` status check before merging.
 
 To see a failing check, open a PR that breaks `hello.c` or the expected output
 in the `check` target.
+
+Test PR 1: README change only (build should pass).
